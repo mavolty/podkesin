@@ -10,7 +10,7 @@
 <h3 align="center">Minima</h3>
 
   <p align="center">
-    Landing page for Minima interior design website
+    Landing page for Podkesin podcast website
     <br />
     <br />
     <a href="https://podkesin.netlify.app/">Live Site</a>
